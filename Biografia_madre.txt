@@ -1,4 +1,6 @@
 mi madre se llama Rosa Aydee, y no sé su edad 
 por que le da verguenza decirla.
 
-Este es un nuevo cambio a mi archivo.
+Este es un nuevo cambio a mi archivo
+
+Su edad me la dijo, es de 50 años
